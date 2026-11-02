@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Khadeja Qureshi 👋</h1>
+<h1 align="center">Hi, I'm Khadeja Qureshi </h1>
 
 <h3 align="center">CS Student @ IBA Karachi | Aspiring AI/ML Engineer</h3>
 
@@ -9,15 +9,15 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 Final-year Computer Science student at the Institute of Business Administration (IBA), Karachi.
-- 🤖 Building my career in Artificial Intelligence and Machine Learning.
-- 💻 Experienced in Python, C++, SQL, data analysis, and software development.
-- 🌱 Always learning, experimenting, and exploring new technologies.
-- 🤝 Enjoy collaborating with teams, taking ownership, and building products that solve meaningful problems.
+-  Final-year Computer Science student at the Institute of Business Administration (IBA), Karachi.
+- Building my career in Artificial Intelligence and Machine Learning.
+- Experienced in Python, C++, SQL, data analysis, and software development.
+- Always learning, experimenting, and exploring new technologies.
+- Enjoy collaborating with teams, taking ownership, and building products that solve meaningful problems.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -50,9 +50,9 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 🌍 Earthquake Prediction Model
+####  Earthquake Prediction Model
 
 - Analyzed five years of seismic data using Python, Pandas, and Scikit-learn to identify seismic risk patterns.
 - Applied K-Means clustering (K=3) using latitude, longitude, and depth to segment regions into distinct risk categories.
@@ -60,7 +60,7 @@
 
 **Tech:** Python, Pandas, Scikit-learn, K-Means, Random Forest, Geospatial Visualization
 
-#### 🤖 LLM Inference Engine for TinyLLaMA-1.1B
+####  LLM Inference Engine for TinyLLaMA-1.1B
 
 - Implemented batch inference to process multiple prompts simultaneously and improve inference throughput.
 - Optimized model inference using KV caching to reduce repeated computation.
@@ -68,7 +68,7 @@
 
 **Tech:** Python, TinyLLaMA-1.1B, LLM Inference, Batch Processing, KV Caching
 
-#### 📦 Inventory Management ETL Pipeline
+####  Inventory Management ETL Pipeline
 
 - Built a three-stage ETL pipeline using Python, PostgreSQL, and Apache Airflow to clean, validate, and transform inventory, sales, and purchase data.
 - Organized transformed data into fact and dimension tables for analytical reporting.
@@ -76,7 +76,7 @@
 
 **Tech:** Python, PostgreSQL, Apache Airflow, ETL, Power BI
 
-#### 📊 Olympic Medal Performance Dashboard
+####  Olympic Medal Performance Dashboard
 
 - Analyzed 35K+ medal records and 8.5K+ athletes through an interactive, multi-page Power BI dashboard.
 - Used trend analysis, scatter plots, stacked charts, and interactive filters to explore Olympic performance across countries, sports, and demographics.
@@ -84,7 +84,7 @@
 
 **Tech:** Power BI, Data Visualization, Exploratory Data Analysis, Trend Analysis
 
-#### 💰 My Money Pal — Full-Stack Finance Management System
+####  My Money Pal — Full-Stack Finance Management System
 
 - Developed a full-stack finance management system with five or more core features for tracking income, expenses, budgets, and savings goals.
 - Implemented secure user authentication, customizable expense categories, and per-category budget tracking.
@@ -93,7 +93,7 @@
 
 **Tech:** React.js, Flask, MySQL, Figma, Jira, Agile/Scrum
 
-#### 🛍️ AI-Powered Intelligent Retail Customer Support System
+####  AI-Powered Intelligent Retail Customer Support System
 
 - Developing an AI agent for context-aware retail customer support and product and inventory retrieval.
 - Implementing conversational memory, intent detection, sentiment analysis, and tool-based interactions.
@@ -103,16 +103,16 @@
 
 ---
 
-### 🌱 Beyond Code
+###  Beyond Code
 
 I enjoy learning independently, collaborating with people from different backgrounds, and taking on challenges that push me outside my comfort zone.
 
 I'm always looking for opportunities to learn, grow, and build impactful projects.
 
-### 📫 Connect With Me
+###  Connect With Me
 
-- 💼 LinkedIn: [Khadeja Qureshi](https://www.linkedin.com/in/khadejaq/)
-- 💻 GitHub: [@khadeja-qureshi](https://github.com/khadeja-qureshi)
+-  LinkedIn: [Khadeja Qureshi](https://www.linkedin.com/in/khadejaq/)
+-  GitHub: [@khadeja-qureshi](https://github.com/khadeja-qureshi)
 
 ---
 
